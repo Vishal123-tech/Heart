@@ -1,3 +1,0 @@
-fgdhytr
-tryruh
-fhjn
