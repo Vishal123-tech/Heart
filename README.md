@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Heart Attack Prediction Project
 
@@ -75,3 +76,6 @@ The [dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **Advanced Models:** Experiment with more complex algorithms like Random Forest, XGBoost, or Gradient Boosting to improve prediction performance.
 - **Feature Importance:** Use advanced techniques such as SHAP values or feature importance from tree-based models to better interpret the model's decisions.
 
+=======
+Test = Achive
+>>>>>>> 44a5b3e773822a9c757da52985cda340f7425eee
